@@ -299,77 +299,147 @@
        "video":"25.mp4"
    },{   
        "category": "cat3",
-       "thumbnail": "https://socialbio.in/imageurl/gamer.jpg",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-1.jpg",
        "viewCount": "20",
        "video":"20.mp4"
    },{   
        "category": "cat3",
-       "thumbnail": "https://socialbio.in/imageurl/nature.jpg",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-2.jpg",
        "viewCount": "20",
        "video":"20.mp4"
    },{   
        "category": "cat3",
-       "thumbnail": "https://socialbio.in/imageurl/nature.jpg",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-3.jpg",
        "viewCount": "20",
        "video":"20.mp4"
    },{   
        "category": "cat3",
-       "thumbnail": "https://socialbio.in/imageurl/nature.jpg",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-4.jpg",
        "viewCount": "20",
        "video":"20.mp4"
    },{   
        "category": "cat3",
-       "thumbnail": "https://socialbio.in/imageurl/nature.jpg",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-5.jpg",
        "viewCount": "20",
        "video":"20.mp4"
    },{   
        "category": "cat3",
-       "thumbnail": "https://socialbio.in/imageurl/nature.jpg",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-9.jpg",
        "viewCount": "20",
        "video":"20.mp4"
    },{   
        "category": "cat3",
-       "thumbnail": "https://socialbio.in/imageurl/nature.jpg",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-7.jpg",
        "viewCount": "20",
        "video":"20.mp4"
    },{   
        "category": "cat3",
-       "thumbnail": "https://socialbio.in/imageurl/nature.jpg",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-8.jpg",
        "viewCount": "20",
        "video":"20.mp4"
    },{   
        "category": "cat3",
-       "thumbnail": "https://socialbio.in/imageurl/nature.jpg",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-9.jpg",
        "viewCount": "20",
        "video":"20.mp4"
    },{   
        "category": "cat3",
-       "thumbnail": "https://socialbio.in/imageurl/nature.jpg",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-10.jpg",
        "viewCount": "20",
        "video":"20.mp4"
    },{   
        "category": "cat3",
-       "thumbnail": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-11.jpg",
        "viewCount": "20",
        "video":"20.mp4"
    },{   
        "category": "cat3",
-       "thumbnail": "https://socialbio.in/imageurl/nature.jpg",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-12.jpg",
        "viewCount": "20",
        "video":"20.mp4"
    },{   
        "category": "cat3",
-       "thumbnail": "https://socialbio.in/imageurl/500.png",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-13.jpg",
        "viewCount": "20",
        "video":"20.mp4"
    },{   
        "category": "cat3",
-       "thumbnail": "https://socialbio.in/imageurl/100.png",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-14.jpg",
        "viewCount": "20",
        "video":"20.mp4"
    },{   
        "category": "cat3",
-       "thumbnail": "https://socialbio.in/imageurl/1080.png",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-15.jpg",
+       "viewCount": "20",
+       "video":"20.mp4"
+   },{   
+       "category": "cat3",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-16.jpg",
+       "viewCount": "20",
+       "video":"20.mp4"
+   },{   
+       "category": "cat3",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-17.jpg",
+       "viewCount": "20",
+       "video":"20.mp4"
+   },{   
+       "category": "cat3",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-18.jpg",
+       "viewCount": "20",
+       "video":"20.mp4"
+   },{   
+       "category": "cat3",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-19.jpg",
+       "viewCount": "20",
+       "video":"20.mp4"
+   },{   
+       "category": "cat3",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-20.jpg",
+       "viewCount": "20",
+       "video":"20.mp4"
+   },{   
+       "category": "cat3",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-21.jpg",
+       "viewCount": "20",
+       "video":"20.mp4"
+   },{   
+       "category": "cat3",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-22.jpg",
+       "viewCount": "20",
+       "video":"20.mp4"
+   },{   
+       "category": "cat3",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-23.jpg",
+       "viewCount": "20",
+       "video":"20.mp4"
+   },{   
+       "category": "cat3",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-24.jpg",
+       "viewCount": "20",
+       "video":"20.mp4"
+   },{   
+       "category": "cat3",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-25.jpg",
+       "viewCount": "20",
+       "video":"20.mp4"
+   },{   
+       "category": "cat3",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-26.jpg",
+       "viewCount": "20",
+       "video":"20.mp4"
+   },{   
+       "category": "cat3",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-27.jpg",
+       "viewCount": "20",
+       "video":"20.mp4"
+   },{   
+       "category": "cat3",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-28.jpg",
+       "viewCount": "20",
+       "video":"20.mp4"
+   },{   
+       "category": "cat3",
+       "thumbnail": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-29.jpg",
        "viewCount": "20",
        "video":"20.mp4"
    }
