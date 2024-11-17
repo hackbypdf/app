@@ -364,8 +364,7 @@
        "video":"20.mp4"
    },{   
        "category": "cat3",
-       "thumbnail": "https://socialbio.in/imageurl/100.png
-",
+       "thumbnail": "https://socialbio.in/imageurl/100.png",
        "viewCount": "20",
        "video":"20.mp4"
    },{   
@@ -373,5 +372,5 @@
        "thumbnail": "https://socialbio.in/imageurl/1080.png",
        "viewCount": "20",
        "video":"20.mp4"
-   },
+   }
 ]
