@@ -5,28 +5,28 @@
       {
         "item": "1",
         "stepByStepImg": [
-          { "img": "https://user-images.githubusercontent.com/54734573/178098214-60a4566b-98ea-44ac-8409-a0ba214f6849.png" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098240-127716d6-c25b-45ff-9a16-189ba6c17a81.png" }
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-1.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-2.jpg" }
         ]
       },
       {
         "item": "2",
         "stepByStepImg": [
-          { "img": "https://user-images.githubusercontent.com/54734573/178098217-3e3f8371-2fb0-423a-a51c-a6ea6c53b622.png" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098218-be4ebb74-d480-4e5e-b502-d56f7cfc9245.png" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098218-be4ebb74-d480-4e5e-b502-d56f7cfc9245.png" }
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-3.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-4.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-5.jpg" }
         ]
       },
       {
         "item": "3",
         "stepByStepImg": [
-          { "img": "https://user-images.githubusercontent.com/54734573/178098214-60a4566b-98ea-44ac-8409-a0ba214f6849.png" },
-          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-29.jpg" },
-          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-28.jpg" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098218-be4ebb74-d480-4e5e-b502-d56f7cfc9245.png" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098210-eb11968d-7d12-412b-bbad-0d194ea2e5b8.png" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098210-eb11968d-7d12-412b-bbad-0d194ea2e5b8.png" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098218-be4ebb74-d480-4e5e-b502-d56f7cfc9245.png" }
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-6.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-7.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-8.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-9.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-10.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-11.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-12.jpg" }
         ]
       }
     ]
@@ -37,32 +37,32 @@
       {
         "item": "1",
         "stepByStepImg": [
-          { "img": "https://user-images.githubusercontent.com/54734573/178098214-60a4566b-98ea-44ac-8409-a0ba214f6849.png" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098216-2317f5dc-ee60-4e40-b34c-5c5e04463fda.png" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098234-6c16266e-c678-4238-876b-e51706eca296.png" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098235-c20245cd-ee56-4263-9f3f-a8d414199a75.png" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098236-c2ea4555-9f44-46a7-9085-f5b2184b6a07.png" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098238-049a9c95-5948-4bf2-ab62-c3ac596a4333.png" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098240-127716d6-c25b-45ff-9a16-189ba6c17a81.png" }
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-13.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-14.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-15.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-16.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-17.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-18.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-19.jpg" }
         ]
       },
       {
         "item": "2",
         "stepByStepImg": [
-          { "img": "https://user-images.githubusercontent.com/54734573/178098217-3e3f8371-2fb0-423a-a51c-a6ea6c53b622.png" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098218-be4ebb74-d480-4e5e-b502-d56f7cfc9245.png" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098241-0a66ac72-992e-4735-a8b1-2fc73d007285.png" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098242-f12da080-690c-42fb-b84d-d7f8a0ed8901.png" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098218-be4ebb74-d480-4e5e-b502-d56f7cfc9245.png" }
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-20.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-21.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-22.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-23.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-24.jpg" }
         ]
       },
       {
         "item": "3",
         "stepByStepImg": [
-          { "img": "https://user-images.githubusercontent.com/54734573/178098214-60a4566b-98ea-44ac-8409-a0ba214f6849.png" },
-          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-29.jpg" },
-          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-28.jpg" },
-          { "img": "https://user-images.githubusercontent.com/54734573/178098218-be4ebb74-d480-4e5e-b502-d56f7cfc9245.png" }
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-25.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-26.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-27.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-28.jpg" }
         ]
       }
     ]
