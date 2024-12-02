@@ -57,5 +57,160 @@
         ]
       }
     ]
+    },{
+        "category": "cat3",
+        "stepByStep": [
+      {
+        "item": "1",
+        "stepByStepImg": [
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-1.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-2.jpg" }
+        ]
+      },
+      {
+        "item": "2",
+        "stepByStepImg": [
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-3.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-4.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-5.jpg" }
+        ]
+      },
+      {
+        "item": "3",
+        "stepByStepImg": [
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-6.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-7.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-8.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-9.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-10.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-11.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-12.jpg" }
+        ]
+      }
+    ]
+    },{
+        "category": "cat4",
+        "stepByStep": [
+      {
+        "item": "1",
+        "stepByStepImg": [
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-1.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-2.jpg" }
+        ]
+      },
+      {
+        "item": "2",
+        "stepByStepImg": [
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-3.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-4.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-5.jpg" }
+        ]
+      },
+      {
+        "item": "3",
+        "stepByStepImg": [
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-6.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-7.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-8.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-9.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-10.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-11.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-12.jpg" }
+        ]
+      }
+    ]
+    },{
+        "category": "cat5",
+        "stepByStep": [
+      {
+        "item": "1",
+        "stepByStepImg": [
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-1.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-2.jpg" }
+        ]
+      },
+      {
+        "item": "2",
+        "stepByStepImg": [
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-3.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-4.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-5.jpg" }
+        ]
+      },
+      {
+        "item": "3",
+        "stepByStepImg": [
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-6.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-7.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-8.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-9.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-10.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-11.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-12.jpg" }
+        ]
+      }
+    ]
+    },{
+        "category": "cat6",
+        "stepByStep": [
+      {
+        "item": "1",
+        "stepByStepImg": [
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-1.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-2.jpg" }
+        ]
+      },
+      {
+        "item": "2",
+        "stepByStepImg": [
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-3.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-4.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-5.jpg" }
+        ]
+      },
+      {
+        "item": "3",
+        "stepByStepImg": [
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-6.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-7.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-8.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-9.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-10.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-11.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-12.jpg" }
+        ]
+      }
+    ]
+    },{
+        "category": "cat7",
+        "stepByStep": [
+      {
+        "item": "1",
+        "stepByStepImg": [
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-1.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-2.jpg" }
+        ]
+      },
+      {
+        "item": "2",
+        "stepByStepImg": [
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-3.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-4.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-5.jpg" }
+        ]
+      },
+      {
+        "item": "3",
+        "stepByStepImg": [
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-6.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-7.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-8.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-9.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-10.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-11.jpg" },
+          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-12.jpg" }
+        ]
+      }
+    ]
     }
 ]
