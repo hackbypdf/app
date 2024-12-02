@@ -55,15 +55,6 @@
           { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-23.jpg" },
           { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-24.jpg" }
         ]
-      },
-      {
-        "item": "3",
-        "stepByStepImg": [
-          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-25.jpg" },
-          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-26.jpg" },
-          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-27.jpg" },
-          { "img": "https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-28.jpg" }
-        ]
       }
     ]
     }
