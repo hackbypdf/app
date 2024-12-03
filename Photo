@@ -1,6 +1,6 @@
 [
     {
-        "category": "cat1",
+        "category": "Pixie Cut",
         "stepByStep": [
       {
         "item": "1",
@@ -32,7 +32,7 @@
     ]
     },
     {
-        "category": "cat2",
+        "category": "Bob Cut",
         "stepByStep": [
       {
         "item": "1",
@@ -58,7 +58,7 @@
       }
     ]
     },{
-        "category": "cat3",
+        "category": "Ponytail",
         "stepByStep": [
       {
         "item": "1",
@@ -89,7 +89,7 @@
       }
     ]
     },{
-        "category": "cat4",
+        "category": "Braided Styles",
         "stepByStep": [
       {
         "item": "1",
@@ -120,7 +120,7 @@
       }
     ]
     },{
-        "category": "cat5",
+        "category": "Beach Waves",
         "stepByStep": [
       {
         "item": "1",
@@ -151,7 +151,7 @@
       }
     ]
     },{
-        "category": "cat6",
+        "category": "Half-Up",
         "stepByStep": [
       {
         "item": "1",
@@ -182,7 +182,7 @@
       }
     ]
     },{
-        "category": "cat7",
+        "category": "Layered Haircut",
         "stepByStep": [
       {
         "item": "1",
